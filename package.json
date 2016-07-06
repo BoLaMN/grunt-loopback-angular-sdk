@@ -1,0 +1,22 @@
+{
+  "name": "grunt-loopback-angular-sdk",
+  "version": "1.0.0",
+  "description": "Grunt task for sdk",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoLaMN/grunt-loopback-angular-sdk.git"
+  },
+  "author": "Nathan Bolam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoLaMN/grunt-loopback-angular-sdk/issues"
+  },
+  "homepage": "https://github.com/BoLaMN/grunt-loopback-angular-sdk#readme",
+  "dependencies": {
+    "loopback-angular-sdk": "^1.0.0"
+  }
+}
